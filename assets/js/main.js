@@ -17,17 +17,4 @@ for (let number = 1; number <= 100; number++){
         squares.insertAdjacentHTML('beforeend', squareLittle)
     }
 
-
-
-    
-    
-
-    /* squares.insertAdjacentHTML('beforeend', squareLittle) */
-
-
 }
-
-
-/* 
-let squareLittle = `<div class="square">${Fizz}</div>`
-    let squareLittle = `<div class="square">${Buzz}</div>` */

@@ -3,7 +3,7 @@ body{
 }
 
 .square{
-    width: 100px;
+    width: calc((100% - 6rem) / 7);
     aspect-ratio: 1 / 1;
     background-color: rgba(61, 136, 174, 1);
     color: white;
