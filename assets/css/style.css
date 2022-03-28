@@ -12,6 +12,11 @@ body{
     align-items: center;
 }
 
+.square:hover{
+    opacity: 0.6;
+    cursor: pointer;
+}
+
 #squares{
     display: flex;
     flex-flow: row wrap; 
