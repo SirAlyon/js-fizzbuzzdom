@@ -1,5 +1,9 @@
+body{
+    background-color: rgba(24, 58, 74, 1)!important;
+}
+
 .square{
-    width: 150px;
+    width: 100px;
     aspect-ratio: 1 / 1;
     background-color: rgba(61, 136, 174, 1);
     color: white;
